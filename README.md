@@ -1,6 +1,3 @@
-Here's the updated `README.md` with instructions on how to replace the placeholder URL in the code:
-
-```markdown
 # Download High-Quality Video from YouTube
 
 This Python script uses `yt-dlp` to download high-quality videos from YouTube. It supports downloading videos in various resolutions and formats, including audio-only downloads. The script leverages FFmpeg for post-processing tasks like format conversion and merging video/audio streams.
